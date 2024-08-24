@@ -1,0 +1,6 @@
+framework module HLTestSDK {
+  umbrella header "HLTestSDK.h"
+  export *
+
+  module * { export * }
+}
